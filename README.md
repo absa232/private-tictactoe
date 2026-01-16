@@ -12,7 +12,7 @@
 # 💌 A Special Gift For You
 Hi my love! I made this private game just for us. No matter how many miles are between us, I wanted a place where we could play, laugh, and spend time together. 
 
-### ✨ [Click Here to Play Our Game](https://abdullah61830.github.io/private-tictactoe/)
+### ✨ [Click Here to Play Our Game](https://absa232.github.io/private-tictactoe/)
 
 ---
 
